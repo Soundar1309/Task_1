@@ -1,0 +1,61 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 13px;
+}
+.content {
+    background-color: lightyellow;
+}
+
+.Header {
+    width: 100%;
+    color: white;
+}
+table { 
+    border-collapse:  collapse;
+    border-left: 1px hidden #999999; 
+    border-right: 1px hidden #999999; 
+} 
+
+input[type="radio"] { 
+    border: 1px hidden #999999;
+} 
+
+input[type="text"] { 
+    border: 1px solid #999999;
+} 
+
+b { 
+    FONT-WEIGHT: bold; 
+    FONT-FAMILY: Arial;
+} 
+
+table tr  { 
+    border: 1px solid #999999;
+} 
+
+a {
+    color: blue;
+    text-decoration: underline;
+    font-style: italic;
+    font-weight: bold;
+}
+select { 
+    border: 1px solid #999999;
+} 
+
+a *  { 
+    cursor: pointer; 
+    outline: medium none;
+} 
+
+.red {
+    color: red;
+}
+
+.Header {
+    background-color: brown;
+    text-align: center;
+    color: white;
+}
